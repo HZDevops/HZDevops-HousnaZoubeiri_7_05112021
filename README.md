@@ -1,10 +1,10 @@
-Projet 7 - Groupomania !
+Projet 7 - Réseau social d'entreprise Groupomania !
 
 7ème projet de la formation développeur web d'Openclassrooms. Créer un réseau social d'entreprise. La stack utilisée pour ce projet:
 
-    VueJs + vuex + vuerouter
-    NodeJs + Express + Sequelize
-    Mysql
+    Vue.js + Vuex + Vue Router
+    NodeJS + Express + Sequelize
+    MySQL
 
 Frontend
 
